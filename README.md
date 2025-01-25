@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vgor15
+- 👋 Hi, I’m @Vyom-Gor
 - 👀 I’m interested in Web Devlopment
 - 🌱 I’m currently learning Web Devlopment and AI
 - 💞️ I’m looking to collaborate on Anything
