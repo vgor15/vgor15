@@ -1,56 +1,110 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontAlign=50)
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,100:8000ff&height=200&section=header&text=Hey%20👋%2C%20I'm%20Vyom%20Gor!&fontSize=45&fontAlign=50&fontColor=ffffff&animation=fadeIn">
+</p>
 
-# 💻 **Hey there, I'm [Your Name]** 👋
-
-I am a **Full-Stack Web Developer** 🚀 passionate about building awesome web applications and exploring new technologies. Always eager to learn and grow! 😊
-
-## 🚀 **About Me**
-
-- 🎓 B-Tech in Computer Engineering at **Silver Oak University** (Graduating Sep 2025)
-- 💡 Experienced in **React, Node.js, Express, MongoDB, MySQL, Python**
-- 🔥 Building **CodeSphere** - a real-time collaborative coding platform
-- 🌍 Exploring **Advanced Driver Assistance Systems (ADAS)**
-- 🌱 Learning **SAP UI5, ODATA, Fiori, and DevOps**
-- 💼 Looking for opportunities in **Front-End & Full-Stack Development**
-
-## 🛠 **Tech Stack**
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat&logo=express&logoColor=white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-
-### **Dev Tools & Others**
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-
-## 📌 **Pinned Projects**
-
-### [🔗 CodeSphere - Real-Time Collaborative Coding Platform](https://github.com/yourusername/CodeSphere)
-- 🚀 **Live Coding Board, Video Chat, Messaging**
-- 🛠 **Tech:** React, Node.js, WebRTC, Socket.io, Express, MongoDB
-
-### [🔗 Jira Clone](https://github.com/yourusername/Jira-Clone)
-- 📝 **Task Management System inspired by Jira**
-- 🛠 **Tech:** React, Redux, Node.js, MongoDB, Tailwind CSS
-
-## 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-## 🌎 **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8A2BE2&center=true&width=750&lines=🚀+Full-Stack+Developer;💡+Tech+Enthusiast+and+Innovator;🔥+Building+Awesome+Projects;🚀+Lifelong+Learner">
+</p>
 
 ---
 
-⭐️ *Feel free to fork and star this repository if you find it useful!* 😊
+## 🚀 **About Me**
+- 🎓 **B-Tech in Computer Engineering** at **Silver Oak University (2025)**
+- 💡 **Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB
+- 🔥 **Currently Building:** [Portfolio](https://vyom-gor-portfolio-2025.vercel.app/) 
+- 🌱 **Exploring:** Advanced Web Development & Performance Optimization  
+- 💼 **Looking for:** Front-End & Full-Stack Developer roles  
+
+---
+
+## 🎨 **Tech Stack**
+🖥️ **Frontend:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+🛠 **Backend & Databases:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+🔧 **Dev Tools & Platforms:**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🌟 **Projects**
+### 🚀 **[Portfolio](https://vyom-gor-portfolio-2025.vercel.app/)**
+- 🛠 **Tech Stack:** Next.js, React, TailwindCSS  
+
+---
+
+## 📊 **GitHub Analytics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vgor15&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vgor15&theme=midnight-purple&hide_border=true&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vgor15&theme=midnight-purple" />
+</p>
+
+---
+
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vgor15&theme=radical&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgor15&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" />
+</p>
+
+---
+
+
+---
+
+## 📜 **Quote of the Day**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
+</p>
+
+---
+
+## 📂 **GitHub Repositories**
+<p align="center">
+  <a href="https://github.com/vgor15/Vyom-Gor_portfolio-2025">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vgor15&repo=your-portfolio-repo&theme=midnight-purple&hide_border=true" />
+  </a>
+</p>
+
+---
+
+---
+
+## 🌎 **Let's Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/vyom-gor/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://vyom-gor-portfolio-2025.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:gorvyom9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *If you liked this README, drop a ⭐ and fork it!* 😊🔥
