@@ -9,6 +9,21 @@
 
 ---
 
+## 📜 **My Guiding Principle**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212276599-eaad5ab8-6f04-4f58-9e39-5a35243c03c2.gif" width="100">
+</p>
+
+<p align="center">
+  <b>कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।<br>
+मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥</b><br><br>
+  <i>"You have the right to perform your duty only,<br>
+but you are not entitled to the fruits of your actions.<br>
+Never consider yourself to be the cause of the results of your activities,<br>
+nor be attached to inaction."</i>
+</p>
+
+
 ## 🚀 **About Me**
 - 🎓 **B-Tech in Computer Engineering** at **Silver Oak University (2025)**
 - 💡 **Tech Stack:** React, Next.js, Node.js, Express.js, MongoDB
@@ -71,16 +86,6 @@
 
 ---
 
-
----
-
-## 📜 **Quote of the Day**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" />
-</p>
-
----
-
 ## 📂 **GitHub Repositories**
 <p align="center">
   <a href="https://github.com/vgor15/Vyom-Gor_portfolio-2025">
@@ -89,6 +94,11 @@
 </p>
 
 ---
+
+## 🐍 **Contribution Graph**
+<p align="center">
+  <img src="https://github.com/vgor15/vgor15/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
@@ -107,4 +117,7 @@
 
 ---
 
-⭐️ *If you liked this README, drop a ⭐ and fork it!* 😊🔥
+## 📜 **Footer**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
