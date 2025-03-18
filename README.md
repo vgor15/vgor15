@@ -52,7 +52,7 @@ nor be attached to inaction."</i>
 ---
 
 ## 🌟 **Projects**
-### 🚀 **[Portfolio](https://vyom-gor-portfolio-2025.vercel.app/)**
+### 🚀 **[Portfolio](https://vyom-gor-portfolio.vercel.app/)**
 - 🛠 **Tech Stack:** Next.js, React, TailwindCSS  
 
 ---
@@ -70,34 +70,9 @@ nor be attached to inaction."</i>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vgor15&theme=midnight-purple" />
 </p>
 
----
-
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vgor15&theme=radical&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## 📈 **Most Used Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgor15&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" />
-</p>
-
----
-
-## 📂 **GitHub Repositories**
-<p align="center">
-  <a href="https://github.com/vgor15/Vyom-Gor_portfolio-2025">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vgor15&repo=your-portfolio-repo&theme=midnight-purple&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🐍 **Contribution Graph**
-<p align="center">
-  <img src="https://github.com/vgor15/vgor15/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -117,7 +92,6 @@ nor be attached to inaction."</i>
 
 ---
 
-## 📜 **Footer**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
